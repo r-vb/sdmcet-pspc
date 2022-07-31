@@ -1,5 +1,3 @@
-//TO CHECK WHETHER INPUT NUMBER IS EVEN OR ODD --IF ELSE.
-
 #include<stdio.h>
 int main()
 {
