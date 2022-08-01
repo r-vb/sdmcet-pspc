@@ -2,7 +2,7 @@
 int main()
 {
         int ia1,ia2,ia3,cta,small,cie;
-    printf(";Enter your IA1, IA2 and IA3 marks respectively: ")
+    printf(";Enter your IA1, IA2 and IA3 marks respectively: ");
     scanf("%d%d%d",&ia1,&ia2,&ia3);
     printf("Enter your CTA marks: ");
     scanf("%d",&cta);
