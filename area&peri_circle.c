@@ -8,6 +8,6 @@ int main()
         pi=3.14;
     peri=2*pi*r;
     area=pi*r*r;
-    printf("Perimeter and area of the circle are %.3f and %.3f respectively.",peri,area);
+    printf("Circumference and Area of the circle are %.3f and %.3f respectively.",peri,area);
 return 0;
 }
