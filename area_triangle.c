@@ -1,3 +1,5 @@
+/*  WHILE COMPILING MAKE SURE TO USE (-lm) -- example: cc [filename.c] -lm    */
+
 #include<stdio.h>
 #include<math.h>
 int main()
