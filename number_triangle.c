@@ -1,3 +1,4 @@
+// TO CREATE TRIANGULAR PATTERN OF NUMBER | ROW NUMBER = DIGITS
 #include<stdio.h>
 int main()
 {
