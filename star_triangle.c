@@ -1,3 +1,4 @@
+//TO CREATE TRIANGULAR PATTERN OF STAR | ROW NUMBER = NUMBER OF STARS.
 #include<stdio.h>
 int main()
 {
