@@ -1,3 +1,5 @@
+/* TO PRINT PRIME NUMBERS WITHIN THE INPUT RANGE */
+
 #include <stdio.h>
 int main()
 {
