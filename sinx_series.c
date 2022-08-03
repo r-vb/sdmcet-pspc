@@ -1,3 +1,7 @@
+/*
+    sin x = x - (x^3)/3! + (x^5)/5! -...(x^n)/n! -- USING LOOPING.
+*/
+
 #include<stdio.h>
 int main()
 {
