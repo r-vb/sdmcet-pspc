@@ -1,3 +1,5 @@
+/* To find the smallest number using array concept */
+
 #include<stdio.h>
 int main()
 {
