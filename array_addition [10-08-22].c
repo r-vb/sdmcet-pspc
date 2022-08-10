@@ -1,3 +1,5 @@
+/* Addition of numbers using array concept */
+
 #include<stdio.h>
 int main()
 {
