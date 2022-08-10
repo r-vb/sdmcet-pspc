@@ -1,3 +1,5 @@
+/*  To find the largest number using array concept */
+
 #include<stdio.h>
 int main()
 {
