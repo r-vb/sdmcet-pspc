@@ -1,3 +1,4 @@
+/* Printing of multiplication results from 2 table to 10 */
 #include<stdio.h>
 int main()
 {
