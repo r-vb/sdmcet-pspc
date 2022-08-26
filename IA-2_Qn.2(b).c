@@ -1,3 +1,5 @@
+// Write a C program to generate prime numbers from 1 to 'n' and also count the number of prime numbers generated.
+
 #include <stdio.h>
 int main()
 {
