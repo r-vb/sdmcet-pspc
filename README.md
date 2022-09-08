@@ -5,7 +5,7 @@ This repository has been created to help you read, verify or copy the source cod
 Hope this is helpful to you.
 
 Want more codes?
-Submit a request @ https://forms.gle/2uWgWraueZNSKK1y8
+Submit a request @ tiny.one/usaskhere
 
 Sincerely,
 Rahul.
